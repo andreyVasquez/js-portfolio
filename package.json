@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreyvasquez/js-portfolio.git"
+    "url": "git+https://github.com/andreyVasquez/js-portfolio.git"
   },
   "keywords": [
     "javascript",
@@ -21,9 +21,9 @@
   "author": "andrey vasquez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andreyvasquez/js-portfolio/issues"
+    "url": "https://github.com/andreyVasquez/js-portfolio/issues"
   },
-  "homepage": "https://github.com/andreyvasquez/js-portfolio#readme",
+  "homepage": "https://github.com/andreyVasquez/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.18.5",
     "@babel/plugin-transform-runtime": "^7.18.5",
